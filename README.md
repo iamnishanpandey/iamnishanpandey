@@ -37,9 +37,6 @@ Databases: MongoDB, PostgreSQL, MySQL
 Tools: Git, Docker, VS Code
 ```
 
-## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnishanpandey&show_icons=true&theme=dark)](https://github.com/iamnishanpandey)
-
 ## ⚡ Fun Fact
 I love coding, coffee, and continuous learning! ☕💻
 
