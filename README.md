@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋 I'm Nishan Pandey
 
-<!--
-**iamnishanpandey/iamnishanpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer interested in building amazing projects and collaborating with the community.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Building innovative solutions and exploring new technologies
+- Contributing to open-source projects
+- Developing full-stack applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced web development techniques
+- Cloud technologies and DevOps
+- Machine learning and AI concepts
+
+## 👯 Looking To Collaborate
+- Open-source projects
+- Web development initiatives
+- Innovative tech startups
+- Community-driven development
+
+## 💬 Ask Me About
+- Web development
+- Software architecture
+- Project management
+- Tech stack decisions
+
+## 📫 How To Reach Me
+- GitHub: [@iamnishanpandey](https://github.com/iamnishanpandey)
+- Connect with me and let's build something great together!
+
+## 🛠️ Tech Stack
+```
+Languages: JavaScript, Python, TypeScript, HTML, CSS
+Frontend: React, Next.js, Vue.js, HTML5, CSS3
+Backend: Node.js, Express, Python
+Databases: MongoDB, PostgreSQL, MySQL
+Tools: Git, Docker, VS Code
+```
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnishanpandey&show_icons=true&theme=radical)
+
+## ⚡ Fun Fact
+I love coding, coffee, and continuous learning! ☕💻
+
+---
+
+<div align="center">
+  <strong>Let's connect and create something amazing together! 🚀</strong>
+</div>
